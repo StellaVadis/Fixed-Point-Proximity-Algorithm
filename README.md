@@ -13,4 +13,4 @@ main5 will give you the results of section 5 in Experiment report, which answers
 main6_1 and main6_2 will give you the results of section 6 in Experiment report, which answers the question 5,6,7.\
 main7_1 and7_2 will give you the results of section 7 in Experiment report, which answers the question 8,9. (Warning: It takes several minutes to run)\
 main8 will give you the results of section 8 in Experiment report, which answers the question 10.\
-main10_noise15, main10_noise20, main10_noise25,main10_noise35 will give you results of section10(Appendices) in Experiment report. (Warning: It takes several minutes to run)\
+main10_noise15, main10_noise20, main10_noise25,main10_noise35 will give you results of section10(Appendices) in Experiment report. (Warning: It takes several minutes to run)
