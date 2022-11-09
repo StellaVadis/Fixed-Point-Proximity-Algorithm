@@ -1,5 +1,7 @@
 # Acknowledgement
 This is an experimental report for implementation of Fixed Point Proximity Algorithm (FPPA) in image denosing. Refer to the website for original paper: https://iopscience.iop.org/article/10.1088/0266-5611/27/4/045009/meta
+#Reference
+Micchelli, C. A., Shen, L., & Xu, Y. (2011). Proximity algorithms for image models: denoising. Inverse Problems, 27(4), 045009.
 # Version
 MATLAB==R2020a
 # Manual of Codes
